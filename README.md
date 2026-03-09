@@ -1,5 +1,4 @@
 # DataAnalyzer
-# DataAnalyzer
 
 An interactive **data analysis and visualization web app** built with **Python, Streamlit, and Pandas**.  
 DataAnalyzer allows users to upload a dataset, explore summary statistics, generate basic charts, and perform simple data operations through an easy-to-use interface.
